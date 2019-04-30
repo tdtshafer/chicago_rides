@@ -2,9 +2,9 @@
 
 This project analyzes rides around Chicago using apps like Uber, Lyft, etc.
 
-Data found here: https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p
+Data found here, contains ~17.4 million ride records: https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p
 
-## Preliminary analysis of 12,000,000 rides:
+## Preliminary analysis of 12,000,000 rides (which took about 4.5 hours to fetch):
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 Percentage of people leaving a tip: 18.27%
